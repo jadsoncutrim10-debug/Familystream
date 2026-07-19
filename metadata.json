@@ -1,0 +1,8 @@
+{
+  "name": "FamilyStream",
+  "description": "Plataforma privada de streaming de vídeo para gerenciamento e reprodução de conteúdos familiares e autorizados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
